@@ -1,0 +1,23 @@
+{
+  "name": "wallaby-1015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemGovorov/wallaby-1015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemGovorov/wallaby-1015/issues"
+  },
+  "homepage": "https://github.com/ArtemGovorov/wallaby-1015#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "nightmare": "^2.9.1"
+  }
+}
